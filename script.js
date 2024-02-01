@@ -8,4 +8,6 @@ function testingOneTwo() {
 
 function happyBoy() {
   console.log("Maybe not that happy");
+  console.log("Or maybe?");
+  console.log("Nope I was wrong");
 }
